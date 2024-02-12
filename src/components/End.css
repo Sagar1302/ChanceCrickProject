@@ -1,0 +1,8 @@
+.endpara {
+  display: inline-block;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  color: #e5dfdf;
+  margin-bottom: 30px;
+  padding-left: 30px;
+}
